@@ -1,0 +1,1 @@
+{"is_active":"d05435584d8c39fe09f8889e7f80a941","purchase_code":"sdsdsd","item_name":"XeroChat - Best Multichannel Marketing Application (SaaS Platform)","buy_at":"2020-06-02T12:55:51+12:00","licence_type":"Extended License","domain":"127.0.0.1","checking_date":"2021-09-16"}
